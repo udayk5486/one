@@ -188,7 +188,7 @@
             <li>Containerization - Docker</li>
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
-            <li>Cloud Platforms - AWS, Azure</li>
+            <li>Cloud Platforms - AWS, GCP</li>
             <li>Monitoring - Prometheus, Grafana</li>
         </ul>
     </section>
